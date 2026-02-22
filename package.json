@@ -45,7 +45,7 @@
     "yargs": "^18.0.0"
   },
   "dependencies": {
-    "@celo/base": "^7.0.3",
+    "@celo/base": "^7.0.4",
     "@celo/identity": "^5.1.2",
     "@celo/utils": "^7.0.0",
     "@masa-finance/masa-sdk": "^4.7.4",

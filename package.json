@@ -65,6 +65,6 @@
     "preset": "conventionalcommits"
   },
   "resolutions": {
-    "conventional-changelog-conventionalcommits": ">= 9.1.0"
+    "conventional-changelog-conventionalcommits": ">= 9.2.0"
   }
 }

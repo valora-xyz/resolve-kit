@@ -38,7 +38,7 @@
     "jest": "^30.0.4",
     "prettier": "^3.9.5",
     "semantic-release": "^25.0.1",
-    "commit-and-tag-version": "^12.5.0",
+    "commit-and-tag-version": "^13.0.0",
     "ts-jest": "^29.3.0",
     "ts-node": "^10.9.2",
     "typescript": "5.9.3",
